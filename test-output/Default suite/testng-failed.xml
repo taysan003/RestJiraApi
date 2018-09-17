@@ -3,11 +3,11 @@
 <suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="com.issues.CreateBug">
+      <class name="com.issues.UpdateComment">
         <methods>
           <include name="verifyResponse"/>
         </methods>
-      </class> <!-- com.issues.CreateBug -->
+      </class> <!-- com.issues.UpdateComment -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->

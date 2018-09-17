@@ -48,7 +48,7 @@ public class CreateBug {
 		String issueId = createResJson.getString("id"); //getting id
 		
 		
-		//Add comment
+		//Update comment
 		String createCmntBody = generateString("G:\\SeleniumProjects\\REST_WorkSpace\\RESTJiraApi\\Payloads\\AddCmnt.json");
 		RestAssured.baseURI = "http://localhost:8087"; //converting date from payload to json
 		Response addCmntResponse = given(). // we are getting overhere response and save it in response variable 
