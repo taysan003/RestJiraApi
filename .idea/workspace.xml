@@ -1,0 +1,553 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4bbe15c8-9dc3-4a81-b439-4617663690a2" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RESTJiraApi.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Payloads/AddCmnt.json" beforeDir="false" afterPath="$PROJECT_DIR$/Payloads/AddCmnt.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Payloads/CreateBug.json" beforeDir="false" afterPath="$PROJECT_DIR$/Payloads/CreateBug.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Payloads/JiraLogin.json" beforeDir="false" afterPath="$PROJECT_DIR$/Payloads/JiraLogin.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Payloads/UpdateCmnt.json" beforeDir="false" afterPath="$PROJECT_DIR$/Payloads/UpdateCmnt.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/issues/CreateBug.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/issues/CreateBug.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/issues/UpdateComment.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/issues/UpdateComment.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/issues/CreateBug.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/issues/CreateBug.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/issues/UpdateComment.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/issues/UpdateComment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/Default suite/Default test.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/Default suite/Default test.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/Default suite/Default test.xml" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/Default suite/Default test.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/emailable-report.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/emailable-report.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/junitreports/TEST-com.issues.UpdateComment.xml" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/junitreports/TEST-com.issues.UpdateComment.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/old/Default suite/methods-alphabetical.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/old/Default suite/methods-alphabetical.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/old/Default suite/methods.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/old/Default suite/methods.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/testng-results.xml" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/testng-results.xml" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/bin/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="1495686346">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="3" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.15" value="1" />
+          <entry key="project.open.time.22" value="1" />
+          <entry key="project.open.time.6" value="2" />
+          <entry key="project.open.time.8" value="1" />
+          <entry key="project.opened" value="6" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="class" value="1" />
+          <entry key="classpath" value="1" />
+          <entry key="json" value="4" />
+          <entry key="project" value="1" />
+          <entry key="xml" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CLASS" value="1" />
+          <entry key="Eclipse" value="2" />
+          <entry key="JSON" value="4" />
+          <entry key="XML" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="227" />
+          <entry key="json" value="59" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="227" />
+          <entry key="JSON" value="59" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/issues/UpdateComment.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="217">
+              <caret line="79" column="24" selection-start-line="79" selection-start-column="24" selection-end-line="79" selection-end-column="24" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Payloads/UpdateCmnt.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="24">
+              <caret line="1" column="52" selection-start-line="1" selection-start-column="52" selection-end-line="1" selection-end-column="52" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.project">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.classpath">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/issues/CreateBug.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-303">
+              <caret line="54" lean-forward="true" selection-start-line="54" selection-end-line="54" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Payloads/AddCmnt.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="24">
+              <caret line="1" column="30" selection-start-line="1" selection-start-column="30" selection-end-line="1" selection-end-column="30" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Payloads/CreateBug.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="192">
+              <caret line="8" column="21" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Payloads/PostXMLPayload.xml">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Payloads/JiraLogin.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="72">
+              <caret line="3" column="1" selection-start-line="3" selection-start-column="1" selection-end-line="3" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Payloads/JiraLogin.json" />
+        <option value="$PROJECT_DIR$/Payloads/CreateBug.json" />
+        <option value="$PROJECT_DIR$/src/com/issues/CreateBug.java" />
+        <option value="$PROJECT_DIR$/Payloads/AddCmnt.json" />
+        <option value="$PROJECT_DIR$/Payloads/UpdateCmnt.json" />
+        <option value="$PROJECT_DIR$/src/com/issues/UpdateComment.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="93" />
+    <option name="y" value="177" />
+    <option name="width" value="1835" />
+    <option name="height" value="927" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <autoscrollFromSource ProjectPane="true" />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="RESTJiraApi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="RESTJiraApi" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="RESTJiraApi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="RESTJiraApi" type="462c0819:PsiDirectoryNode" />
+              <item name="Payloads" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="RESTJiraApi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="RESTJiraApi" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="RESTJiraApi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="RESTJiraApi" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="issues" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="RESTJiraApi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+            <path>
+              <item name="RESTJiraApi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="testng" type="70bed36:NamedLibraryElementNode" />
+            </path>
+            <path>
+              <item name="RESTJiraApi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="testng" type="70bed36:NamedLibraryElementNode" />
+              <item name="testng-7.0.0-beta1.jar" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="RESTJiraApi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="testng" type="70bed36:NamedLibraryElementNode" />
+              <item name="testng-7.0.0-beta1.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="testng" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="AndroidView" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1541361061285" />
+    <property name="ignore_missing_gitignore" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="TestNG.UpdateComment.verifyResponse (4)">
+    <configuration name="&lt;template&gt;" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" default="true" selected="false">
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UpdateComment.verifyResponse (1)" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="RESTJiraApi" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.issues.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.issues" />
+      <option name="MAIN_CLASS_NAME" value="com.issues.UpdateComment" />
+      <option name="METHOD_NAME" value="verifyResponse" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UpdateComment.verifyResponse (2)" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="RESTJiraApi" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.issues.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.issues" />
+      <option name="MAIN_CLASS_NAME" value="com.issues.UpdateComment" />
+      <option name="METHOD_NAME" value="verifyResponse" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UpdateComment.verifyResponse (3)" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="RESTJiraApi" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.issues.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.issues" />
+      <option name="MAIN_CLASS_NAME" value="com.issues.UpdateComment" />
+      <option name="METHOD_NAME" value="verifyResponse" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UpdateComment.verifyResponse (4)" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="RESTJiraApi" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.issues.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.issues" />
+      <option name="MAIN_CLASS_NAME" value="com.issues.UpdateComment" />
+      <option name="METHOD_NAME" value="verifyResponse" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UpdateComment.verifyResponse" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="RESTJiraApi" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.issues.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.issues" />
+      <option name="MAIN_CLASS_NAME" value="com.issues.UpdateComment" />
+      <option name="METHOD_NAME" value="verifyResponse" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="TestNG.UpdateComment.verifyResponse (1)" />
+      <item itemvalue="TestNG.UpdateComment.verifyResponse (2)" />
+      <item itemvalue="TestNG.UpdateComment.verifyResponse" />
+      <item itemvalue="TestNG.UpdateComment.verifyResponse (3)" />
+      <item itemvalue="TestNG.UpdateComment.verifyResponse (4)" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.UpdateComment.verifyResponse (4)" />
+        <item itemvalue="TestNG.UpdateComment.verifyResponse (3)" />
+        <item itemvalue="TestNG.UpdateComment.verifyResponse" />
+        <item itemvalue="TestNG.UpdateComment.verifyResponse (2)" />
+        <item itemvalue="TestNG.UpdateComment.verifyResponse (1)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TestHistory">
+    <history-entry file="UpdateComment_verifyResponse_(3) - 2018.11.04 at 11h 32m 21s.xml">
+      <configuration name="UpdateComment.verifyResponse (3)" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="UpdateComment_verifyResponse_(3) - 2018.11.04 at 11h 33m 48s.xml">
+      <configuration name="UpdateComment.verifyResponse (3)" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="UpdateComment_verifyResponse_(3) - 2018.11.04 at 11h 35m 12s.xml">
+      <configuration name="UpdateComment.verifyResponse (3)" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="UpdateComment_verifyResponse_(4) - 2018.11.04 at 11h 37m 53s.xml">
+      <configuration name="UpdateComment.verifyResponse (4)" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="UpdateComment_verifyResponse_(5) - 2018.11.04 at 11h 39m 50s.xml">
+      <configuration name="UpdateComment.verifyResponse (5)" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="UpdateComment_verifyResponse_(5) - 2018.11.04 at 11h 41m 02s.xml">
+      <configuration name="UpdateComment.verifyResponse (5)" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="UpdateComment_verifyResponse_(1) - 2018.11.04 at 11h 46m 29s.xml">
+      <configuration name="UpdateComment.verifyResponse (1)" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="UpdateComment_verifyResponse_(2) - 2018.11.04 at 11h 47m 38s.xml">
+      <configuration name="UpdateComment.verifyResponse (2)" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="UpdateComment_verifyResponse - 2018.11.04 at 11h 49m 09s.xml">
+      <configuration name="UpdateComment.verifyResponse" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="UpdateComment_verifyResponse_(3) - 2018.11.04 at 11h 50m 23s.xml">
+      <configuration name="UpdateComment.verifyResponse (3)" configurationId="TestNG" />
+    </history-entry>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="93" y="177" width="1835" height="927" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1943662" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="Learn" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.44892812" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.24758843" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Messages" order="10" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Capture Analysis" order="3" />
+      <window_info anchor="right" id="Theme Preview" order="4" />
+      <window_info anchor="right" id="Palette&#9;" order="5" />
+      <window_info anchor="right" id="Maven Projects" order="6" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="jar://$MAVEN_REPOSITORY$/org/testng/testng/7.0.0-beta1/testng-7.0.0-beta1.jar!/org/testng/SuiteRunnerWorker.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="58" selection-start-line="58" selection-end-line="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.project">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.classpath">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Payloads/CreateBug.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="8" column="21" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Payloads/PostXMLPayload.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Payloads/JiraLogin.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="3" column="1" selection-start-line="3" selection-start-column="1" selection-end-line="3" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Payloads/AddCmnt.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="24">
+          <caret line="1" column="30" selection-start-line="1" selection-start-column="30" selection-end-line="1" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/issues/CreateBug.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-303">
+          <caret line="54" lean-forward="true" selection-start-line="54" selection-end-line="54" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Payloads/UpdateCmnt.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="24">
+          <caret line="1" column="52" selection-start-line="1" selection-start-column="52" selection-end-line="1" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/issues/UpdateComment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="217">
+          <caret line="79" column="24" selection-start-line="79" selection-start-column="24" selection-end-line="79" selection-end-column="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

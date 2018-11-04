@@ -2,9 +2,9 @@
     "fields": {
        "project":
        {
-          "key": "RAT-2"
+          "key": "RAT"
        },
-       "summary": "Creating issue from REST Automation second time",
+       "summary": "Creating issue from REST Automation third time",
        "description": "Creating of an issue using project keys and issue type names using the REST API",
        "issuetype": {
           "name": "Bug"

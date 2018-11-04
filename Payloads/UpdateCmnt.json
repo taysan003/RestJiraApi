@@ -1,5 +1,5 @@
 {
-    "body": " Update comment inside the Issue RAT-9. Please retest your scenarion.",
+    "body": " Update comment inside the Issue RAT-9.",
     "visibility": {
         "type": "role",
         "value": "Administrators"

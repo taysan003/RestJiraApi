@@ -2,12 +2,12 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="2580" started-at="2018-09-17T19:26:11Z" finished-at="2018-09-17T19:26:14Z">
+  <suite name="Default suite" duration-ms="4200" started-at="2018-09-19T01:36:42Z" finished-at="2018-09-19T01:36:46Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="2580" started-at="2018-09-17T19:26:11Z" finished-at="2018-09-17T19:26:14Z">
+    <test name="Default test" duration-ms="4200" started-at="2018-09-19T01:36:42Z" finished-at="2018-09-19T01:36:46Z">
       <class name="com.issues.UpdateComment">
-        <test-method status="PASS" signature="verifyResponse()[pri:0, instance:com.issues.UpdateComment@e25b2fe]" name="verifyResponse" duration-ms="2559" started-at="2018-09-17T19:26:11Z" finished-at="2018-09-17T19:26:14Z">
+        <test-method status="PASS" signature="verifyResponse()[pri:0, instance:com.issues.UpdateComment@e25b2fe]" name="verifyResponse" duration-ms="4178" started-at="2018-09-19T01:36:42Z" finished-at="2018-09-19T01:36:46Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- verifyResponse -->
