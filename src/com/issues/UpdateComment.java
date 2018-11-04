@@ -85,33 +85,15 @@ public class UpdateComment {
 		
 		
 		//System.out.println("Comment Added");
-		//Update comment
-		/*String updateCmntBody = generateString("G:\\SeleniumProjects\\REST_WorkSpace\\RESTJiraApi\\Payloads\\UpdateCmnt.json");
-		RestAssured.baseURI = "http://localhost:8087"; //converting date from payload to json
-		Response updateCmntResponse = given(). // we are getting overhere response and save it in response variable 
-				contentType(ContentType.JSON). 
-				header("cookie", "JSESSIONID="+sessionID+"").
-				//adding cookie
-				body(updateCmntBody).
-		when().
-			put("/rest/api/2/issue/RAT-1/comment/" +cmntID+ ""). //resources
-		then()
-			.assertThat().statusCode(200).
-		extract().response();*/
-				 
-		/*JsonPath addCmntJsonResponse = new JsonPath(addCmntResponse.asString()); // we are parsing to json 
-		String cmntId = jsonRes.getString("id");*/ //getting id
-		
+
 		
 		//Deleting comment
-		/*given(). // we are getting overhere response and save it in response variable
+		given().
 		contentType(ContentType.JSON). 
-		header("cookie", "JSESSIONID="+sessionID+"").
-		
+		header("cookie", "JSESSIONID=" + sessionId+"").
 		when().
-		delete("/rest/api/2/issue/RAT-1/comment/" +cmntID+ ""). //resources
-	then()
-		.assertThat().statusCode(204).log().all(); //status cod we are getting from API doc*/
+		delete("/rest/api/2/issue/"+issueId+"/comment/" + cmntId+""). //resources
+		then().assertThat().statusCode(204).log().all(); //status cod we are getting from API doc
 }
 	
 	
